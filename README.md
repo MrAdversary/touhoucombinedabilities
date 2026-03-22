@@ -1,4 +1,4 @@
-# 2huAbilityCombineGen
+# 2huCombinedAbilityGenerator
 A generator that lets you combine the powers of two Touhou characters into one. </br>
 
 http://tiny.cc/uvo0101
