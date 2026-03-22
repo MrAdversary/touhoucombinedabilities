@@ -38,6 +38,62 @@ const abilities = [{
   ability: `Alice Margatroid + Shinmyoumaru Sukuna: "Capable of utilizing dolls through the Miracle Mallet"`
 }, {
   ability: `Medicine Melancholy + Seija Kijin: "Capable of reversing everything that is beneficial with poison"`
+}, {
+  ability: `Reimu Hakurei + Kyouko Kasodani: "Capable of floating through reality while reflecting sound waves."`
+}, {
+  ability: `Sunny Milk + Daiyousei: "Capable of retracting light to the user while invisibly swimming through the mist"`
+}, {
+  ability: `Marisa Kirisame + Maribel Hearn: "Capable of using magic through seeing boundaries"`
+}, {
+  ability: `Letty Whiterock + Takane Yamashiro: "Capable of converting chill/winter itself into forest's qi"`
+}, {
+  ability: `Koakuma + Seija Kijin: "Capable of finding a targetted book through reversing everything"`
+}, {
+  ability: `Flandre Scarlet + Son Biten: "Capable of summoning wild monkeys by destroying anything"`
+}, {
+  ability: `Star Sapphire + Shinmyoumaru Sukuna: "Capable of detecting movements through the Miracle Mallet"`
+}, {
+  ability: `Tewi Inaba + Chen: "Capable of using sorcery converting to good luck"`
+}, {
+  ability: `Hisami Yomotsu + Okina Matara: "Capable of creating interdimensional backdoors to never let anything slip out of her grasp"`
+}, {
+  ability: `Zanmu Nippaku + Nazrin: "Capable of finding specific objects through a user's nothingness"`
+}, {
+  ability: `Shizuha Aki + Keine Kamishirasawa: "Capable of manipulating history through autumn leaves"`
+}, {
+  ability: `Kagerou Imaizumi + Lily White: "Capable of announcing spring by transforming into a wolf"`
+}, {
+  ability: `Reimu Hakurei + Raiko Horikawa: "Capable of floating and aura through following the rhythm"`
+}, {
+  ability: `Sunny Milk + Urumi Ushizaki: "Capable of changing weights of the selected objects by retracting light"`
+}, {
+  ability: `Yukari Yakumo + Sannyo Komakusa: "Capable of influencing space and boundaries with tobacco smoke"`
+}, {
+  ability: `Satori Komeiji + Kosuzu Motoori: "Capable of deciphering books by reading others' minds"`
+}, {
+  ability: `Tsukasa Kudamaki + Medicine Melancholy: "Capable of slipping one's weak soul through using poison"`
+}, {
+  ability: `Suwako Moriya + Mike Goutokuji: "Capable of creating earth through attracting money and customers (not both of them, this is done in seperate ways)"`
+}, {
+  ability: `Yachie Kicchou + Mystia Lorelei: "Capable of driving others insane by singing and night blinding through making them lose the will to fight"`
+}, {
+  ability: `Koishi Komeiji + Lily White: "Capable of announcing spring without telling others"`
+}, {
+  ability: `Wakasagihime + Yuuka Kazami: "Capable of increasing her own strength using water and flowers"`
+}, {
+  ability: `Benben Tsukumo + Yuuka Kazami: "Capable of letting flowers grow by playing illusionary notes."`
+}, {
+  ability: `Eirin Yagokoro + Iku Nagae: "Capable of reading the atmosphere of any situation while forging medicine."`
+}, {
+  ability: `Kutaka Niwatari + Yoshika Miyako: "Capable of healing illnesses while consuming incoming harm."`
+}, {
+  ability: `Kogasa Tatara + Nemuno Sakata: "Capable of blacksmithing a perfect sanctuary and surprising visitors."`
+}, {
+  ability: `Hina Kagiyama + Junko: "Capable of redefining anything and leaving behind only misfortune."`
+}, {
+  ability: `Kasen Ibaraki + Sakuya Izayoi: "Capable of guiding animals to ignore time maniplation."`
+}, {
+  ability: `Shiki Eiki, Yamaxanadu + Sagume Kishin: "Capable of judging and reversing a target's sin."`
 }];
 
 let btn = document.querySelector("#Abtn");
