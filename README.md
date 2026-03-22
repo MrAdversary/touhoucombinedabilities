@@ -4,17 +4,17 @@ A generator that lets you combine the powers of two Touhou characters into one. 
 http://tiny.cc/uvo0101
 
 For fun, I thought of an innovative website idea that would combine the abilities of two touhou characters into one. </br>
-Click the button → get a combined ability.
 
-## Highlights
+**Click the button → get a combined ability.**
 
-- 20+ lines embedded
-- Unique character pairing
+![](screenshot.png)
 
 ## Features
 
 - Button to randomly generate abilities
 - Simple website design
+- 20+ characters embedded
+- Unique character pairing
 
 ## Note
 
