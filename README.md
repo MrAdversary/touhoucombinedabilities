@@ -14,9 +14,14 @@ For fun, I thought of an innovative website idea that would combine the abilitie
 - 20+ characters embedded
 - Unique character pairing
 
+## Updates
+- 04/02/2026: Created "source" folder
+- Added link to website on repository
+- Added "updates" on README.md
+
 ---
 
-Touhou Project © Team Shanghai Alice / ZUN.
+Touhou Project © Team Shanghai Alice / ZUN. Thank you to my friend for suggesting new abilities!
 
  (Inspired by https://randomtouhougen.neocities.org/) </br>
  
